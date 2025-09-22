@@ -1,33 +1,44 @@
-# Power Patterns Solution TuGraz Student Team
+# Power Patterns Solution – TU Graz Student Team
+
 ## Overview
+This repository contains our solution to the [**Power Patterns Challenge**](https://thinkonward.com/app/c/challenges/power-patterns) organized by ThinkOnward.  
+Our team from TU Graz achieved **4th place overall** in this competition.  
 
-This directory contains our Solution of the Power Patterns challenge by Onward.
+The repository includes the Jupyter notebook with our implementation, along with the environment setup instructions.  
+**Note:** The original competition data is **not included** and must be obtained separately from ThinkOnward.
 
-    If you're running the notebook locally:
-        Ensure you have Python installed on your system. We recommend version 3.10.14.
-        Clone this repository to your local machine.
-        Navigate to the directory containing the notebook.
-        Copy the respective data into this directory.
-        Run the notebook in a Jupyter environment.
+---
 
-    If you're running the notebook in Google Colab:
-        Open the notebook in Google Colab.
-        Upload the respective data as well as the requirements file.
-        Run the cells sequentially to set up the environment and install dependencies.
+## Usage
 
-Contents
+### Running Locally
+1. Ensure you have Python installed (we recommend **Python 3.10.14**).  
+2. Clone this repository to your local machine.  
+3. Navigate to the repository directory.  
+4. Copy the required competition data files into this directory.  
+5. Launch the notebook in a Jupyter environment.  
 
-    notebook.ipynb: Jupyter notebook containing the environment setup code.
-    requirements.txt: File containing the list of required Python packages.
-    README.md: This file providing an overview of the notebook and instructions for usage.
+### Running in Google Colab
+1. Open the notebook in **Google Colab**.  
+2. Upload the competition data files as well as the `requirements.txt`.  
+3. Run the cells sequentially to set up the environment and install dependencies.  
 
-Dependencies
+---
 
-    Python 3.10.14
-    DataFiles
+## Contents
+- **`solution.ipynb`** – Jupyter notebook containing the solution code and environment setup.  
+- **`requirements.txt`** – List of required Python packages.  
+- **`README.md`** – This file, providing an overview and usage instructions.  
 
-Contributors
+---
 
-    Daniel Hebenstreit (daniel.hebenstreit@student.tugraz.at)
-    Elias Gatternig
-    Alex Belengeanu
+## Dependencies
+- **Python 3.10.14**  
+- Competition data files (not included in this repository).  
+
+---
+
+## Contributors
+- Daniel Hebenstreit (daniel.hebenstreit@student.tugraz.at)  
+- Elias Gatternig  
+- Alex Belengeanu  
